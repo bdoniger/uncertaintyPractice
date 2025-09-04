@@ -1,2 +1,2 @@
 # uncertaintyPractice
-Practicing for DS 5030 Understanding Uncertainty
+Practicing with git for DS 5030 Understanding Uncertainty
